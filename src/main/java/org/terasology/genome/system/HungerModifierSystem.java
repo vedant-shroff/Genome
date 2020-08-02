@@ -1,4 +1,4 @@
 package org.terasology.genome.system;
 
-public class PropertyModifier {
+public class HungerModifierSystem {
 }
